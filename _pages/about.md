@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD candidate in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am advised by [Dr. Jana Diesner]([https://www.XXX.com/](https://jdiesnerlab.ischool.illinois.edu/). I am an alumni of the [Center for Artificial Intelligence Innovation (CAII)] (https://ai.ncsa.illinois.edu/) at [NCSA](https://www.ncsa.illinois.edu/).
+I'm a PhD candidate in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am advised by [Dr. Jana Diesner](https://jdiesnerlab.ischool.illinois.edu/). I am an alumni of the [Center for Artificial Intelligence Innovation (CAII)](https://ai.ncsa.illinois.edu/) at [NCSA](https://www.ncsa.illinois.edu/).
 
 Research Interests
 ======
