@@ -16,7 +16,7 @@ My research interests are broadly in Natural Language Processing and Computation
 Recent News
 ======
 - [06/2024] Two paper accepted to [ACL 2024](https://2024.aclweb.org/) Workshops (BioNLP and GeBNLP)! See you in Bangkok!
-- [05/2024] Our system in the shared task of [BioLaySumm 2024] (https://biolaysumm.org/) achieved the BEST performance among over 50 submissions.
+- [05/2024] Our system in the shared task of [BioLaySumm 2024](https://biolaysumm.org/) achieved the BEST performance among over 50 submissions.
 
 Selected Publications
 ======
