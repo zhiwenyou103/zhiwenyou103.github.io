@@ -1,3 +1,6 @@
+---
+collection: teaching
+---
 
 Teaching Assistant
 ======
