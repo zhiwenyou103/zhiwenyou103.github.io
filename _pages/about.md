@@ -11,7 +11,7 @@ I'm a PhD candidate in the [School of Information Sciences](https://ischool.illi
 
 Research Interests
 ======
-My research interests are broadly in Natural Language Processing and Computational Social Science. My research goal is to make scientific literature more accessable using efficient and low-resource NLP techniques, especially in the biomedical domain. I'm also interested in revealing biases in LLMs through NLP downstream tasks.
+My research interests broadly lie in Natural Language Processing and Computational Social Science. My research goal is to make scientific literature more accessible using efficient and low-resource NLP techniques, especially in the biomedical domain. I'm also interested in revealing biases in LLMs through NLP downstream tasks.
 
 Recent News
 ======
