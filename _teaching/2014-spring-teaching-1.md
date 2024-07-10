@@ -1,20 +1,5 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Assistant
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+IS 202: Social Aspects of Information Technology (Instructor: [Dr. Judith Pintar](https://ischool.illinois.edu/people/judith-pintar)), UIUC. Fall 2023.
+IS 101: Introduction to Information Sciences (Instructor: Dr. [Madelyn Rose Sanfilippo](https://madelynsanfilippo.com/)), UIUC. Spring 2024.
